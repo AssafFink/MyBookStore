@@ -3,6 +3,11 @@ body {
     text-align: center;
     font-family: "Lucida Handwriting";
     color: darkcyan;
+    font-size: xx-large;
+}
+
+input, button {
+    font-size: xx-large;
 }
 
 img {
